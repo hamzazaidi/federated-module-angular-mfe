@@ -1,0 +1,1 @@
+# federated-module-angular-mfe
